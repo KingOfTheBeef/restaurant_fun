@@ -80,4 +80,4 @@ function ReservationsPage() {
   );
 }
 
-export default reservationsPage;
+export default ReservationsPage;
